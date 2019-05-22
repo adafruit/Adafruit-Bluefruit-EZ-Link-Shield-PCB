@@ -1,6 +1,6 @@
 ## Adafruit Bluefruit EZ Link Shield PCB
 <a href="http://www.adafruit.com/products/1628"><img src="assets/image.jpg?raw=true" width="500px"><br/>
-Click here to see this the Adafruit shop</a>
+Click here to see this in the Adafruit shop</a>
 
 **Note: Discontinued - this product is currently undergoing a revision and will be available again soon!**
 
